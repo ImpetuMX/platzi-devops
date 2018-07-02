@@ -8,4 +8,4 @@ RUN npm install
 
 ADD . /app
 
-CMD ["node", "serer"]
+CMD ["node", "server"]
